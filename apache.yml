@@ -13,5 +13,5 @@
         enable: True
     - name: Deploy static website
       copy:
-        src: index.html
+        src: pom.xml
         dest: /var/www/html/
