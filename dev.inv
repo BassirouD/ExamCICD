@@ -1,1 +1,2 @@
-
+[webservers]
+192.168.36.137 ansible_user=diallo
