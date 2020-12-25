@@ -1,5 +1,5 @@
 ---
-- host: webservers
+- host: 192.168.36.137
   become: true
   task: 
     - name: Install packages
